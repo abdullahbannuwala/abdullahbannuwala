@@ -54,4 +54,4 @@ Experienced Full Stack .NET Core Developer with a strong background in cloud tec
 
 Feel free to reach out for collaborations or just a chat about technology!
 
-[LinkedIn](Your LinkedIn URL) | [GitHub](Your GitHub URL)
+https://www.linkedin.com/in/realmabdullah/
